@@ -1,7 +1,6 @@
 /* You need to create the rest of styles for the layout shown */
 
 .options {
-    display: flex;
     flex-basis: 24%;
     margin: 0 2rem;
     border: 1px dashed dodgerblue;
